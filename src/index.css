@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		font-family: "Poppins", sans-serif;
+	}
+	.volkhov {
+		font-family: "Volkhov", serif;
+	}
+	.button {
+		@apply bg-primary active:bg-primary focus:bg-primary hover:bg-primary btn text-primary-content active:text-primary-content focus:text-primary-content hover:text-primary-content;
+	}
+	div.navbar-end ul.menu li {
+		@apply justify-center;
+	}
+	div.navbar-end ul.menu a.active {
+		@apply button content-center;
+	}
+}

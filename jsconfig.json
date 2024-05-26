@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"isolatedModules": true,
+		"jsx": "react-jsx",
+		"paths": { "@/*": ["./*"] },
+		"resolveJsonModule": true
+	}
+}

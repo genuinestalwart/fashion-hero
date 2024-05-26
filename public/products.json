@@ -1,0 +1,802 @@
+[
+	{
+		"id": "0e3334a2-f244-4ab5-a649-3906ad66cfed",
+		"title": "Basic Crew Neck Tee",
+		"description": "Stay warm and cozy in this winter sweater, made from soft, high-quality wool.",
+		"price": 56.57,
+		"sizes": ["XS", "S", "M", "L", "XXL"],
+		"itemsLeft": 40
+	},
+	{
+		"id": "5e56708b-1511-48b6-afdd-cee11d3f2416",
+		"title": "Elegant Evening Gown",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 64.87,
+		"sizes": ["S", "L", "M", "XL"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "ff020332-12e0-4805-830e-d782680ba2ac",
+		"title": "Faux Fur Coat",
+		"description": "Stay warm and cozy in this winter sweater, made from soft, high-quality wool.",
+		"price": 53.67,
+		"sizes": ["XXL", "M", "S", "XL", "XS"],
+		"itemsLeft": 34
+	},
+	{
+		"id": "518aec6f-a061-4128-a824-cabacce25fde",
+		"title": "Slim Fit Chinos",
+		"description": "A plaid flannel shirt that adds a rustic charm to your casual look.",
+		"price": 46.0,
+		"sizes": ["M", "S", "XS", "XL", "L"],
+		"itemsLeft": 28
+	},
+	{
+		"id": "6b6c0046-83bb-416e-b826-e7ee609602e2",
+		"title": "Elegant Evening Gown",
+		"description": "A faux fur coat that combines luxury with warmth.",
+		"price": 46.55,
+		"sizes": ["XL", "XS", "M", "L", "XXL"],
+		"itemsLeft": 3
+	},
+	{
+		"id": "060950c2-61a3-4ab3-9d77-0be547a582e8",
+		"title": "Stylish Summer Dress",
+		"description": "Ripped skinny jeans that offer a trendy, fashionable look.",
+		"price": 113.3,
+		"sizes": ["XL", "L", "XXL", "S", "M", "XS"],
+		"itemsLeft": 30
+	},
+	{
+		"id": "f205393d-9a71-4866-b96d-d91a05765245",
+		"title": "Formal White Shirt",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 107.54,
+		"sizes": ["XS", "M", "S", "L", "XL"],
+		"itemsLeft": 45
+	},
+	{
+		"id": "067ba7e5-5fa7-4a3b-ad1a-1df0d6644b52",
+		"title": "Ripped Skinny Jeans",
+		"description": "A basic crew neck tee that is a must-have in any wardrobe.",
+		"price": 58.54,
+		"sizes": ["M", "XL", "XXL", "XS", "L"],
+		"itemsLeft": 15
+	},
+	{
+		"id": "5d5aaa23-c9fb-49d0-9eed-a6619ff5b9a7",
+		"title": "Formal White Shirt",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 97.84,
+		"sizes": ["S", "XL", "XS"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "a24b9f82-ebd1-473f-8a3a-a0a94d68f060",
+		"title": "Formal White Shirt",
+		"description": "An elegant evening gown suitable for formal occasions and special events.",
+		"price": 92.49,
+		"sizes": ["XXL", "L", "XS"],
+		"itemsLeft": 2
+	},
+	{
+		"id": "e658408c-7e07-4a22-9a15-d2d9da19c85a",
+		"title": "Floral Print Skirt",
+		"description": "An elegant evening gown suitable for formal occasions and special events.",
+		"price": 52.51,
+		"sizes": ["XXL", "M"],
+		"itemsLeft": 42
+	},
+	{
+		"id": "97731b26-5099-4ad5-a31e-7b3705e42e84",
+		"title": "Ripped Skinny Jeans",
+		"description": "A cozy V-neck sweater perfect for layering during cooler months.",
+		"price": 97.06,
+		"sizes": ["S", "XXL", "M"],
+		"itemsLeft": 38
+	},
+	{
+		"id": "79256cc7-e18a-4c89-966e-5217d892629d",
+		"title": "Vintage Band Tee",
+		"description": "Sporty joggers that are perfect for workouts or lounging at home.",
+		"price": 112.29,
+		"sizes": ["XXL", "S"],
+		"itemsLeft": 8
+	},
+	{
+		"id": "72ed3f17-5506-4021-8e7a-b2a72fff3c25",
+		"title": "Faux Fur Coat",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 47.49,
+		"sizes": ["XXL", "XL", "S", "L"],
+		"itemsLeft": 13
+	},
+	{
+		"id": "c0f1db6f-dc30-4062-bb54-3bd6cdc46810",
+		"title": "V-Neck Sweater",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 55.83,
+		"sizes": ["XL", "XS", "M", "S", "XXL", "L"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "5a48a696-023e-43bf-8ffb-d0920c881459",
+		"title": "Cozy Winter Sweater",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 77.07,
+		"sizes": ["S", "XXL", "M", "L"],
+		"itemsLeft": 39
+	},
+	{
+		"id": "08e3407d-cb32-44f8-88bf-65f5b41dc446",
+		"title": "Casual T-Shirt",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 112.64,
+		"sizes": ["XXL", "L", "XL"],
+		"itemsLeft": 2
+	},
+	{
+		"id": "2c14f8f2-1b4a-49ba-90fa-a74b974ea693",
+		"title": "Faux Fur Coat",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 86.72,
+		"sizes": ["L", "S", "XXL"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "ba3a9253-8ce6-455d-bfc0-eecfecc90548",
+		"title": "Floral Print Skirt",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 53.15,
+		"sizes": ["L", "XL"],
+		"itemsLeft": 33
+	},
+	{
+		"id": "944c9bf9-76c3-44ff-b4db-164c7342b27a",
+		"title": "Off-Shoulder Top",
+		"description": "Sporty joggers that are perfect for workouts or lounging at home.",
+		"price": 102.68,
+		"sizes": ["XL", "S", "XS", "L", "M"],
+		"itemsLeft": 10
+	},
+	{
+		"id": "8d741ab1-992b-49e4-8709-4458591375ca",
+		"title": "Off-Shoulder Top",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 71.92,
+		"sizes": ["M", "XXL"],
+		"itemsLeft": 26
+	},
+	{
+		"id": "e6134f94-d4ce-4621-baff-25589967ed10",
+		"title": "Vintage Band Tee",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 58.79,
+		"sizes": ["XL", "XS"],
+		"itemsLeft": 46
+	},
+	{
+		"id": "2ee94c24-75a6-4e6f-89a9-e001af7b91d6",
+		"title": "Basic Crew Neck Tee",
+		"description": "A cozy V-neck sweater perfect for layering during cooler months.",
+		"price": 53.73,
+		"sizes": ["S", "M", "L", "XL"],
+		"itemsLeft": 43
+	},
+	{
+		"id": "c3a89b64-abf5-4d4e-857d-c29fd23bcab8",
+		"title": "Faux Fur Coat",
+		"description": "A comfortable hoodie ideal for casual wear or staying warm on chilly days.",
+		"price": 56.89,
+		"sizes": ["M", "L", "XXL", "XL"],
+		"itemsLeft": 24
+	},
+	{
+		"id": "bc6173aa-eca1-4de9-83d4-da3b8e714190",
+		"title": "Basic Crew Neck Tee",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 31.67,
+		"sizes": ["L", "S", "XXL", "M", "XL"],
+		"itemsLeft": 7
+	},
+	{
+		"id": "3f4607b0-0592-4dd3-9f68-9cd34d5e10aa",
+		"title": "Slim Fit Chinos",
+		"description": "Sporty joggers that are perfect for workouts or lounging at home.",
+		"price": 87.14,
+		"sizes": ["XL", "XXL"],
+		"itemsLeft": 1
+	},
+	{
+		"id": "113a34b9-36b3-4f51-a60b-f72af61c9fc0",
+		"title": "Striped Polo Shirt",
+		"description": "A faux fur coat that combines luxury with warmth.",
+		"price": 36.9,
+		"sizes": ["XS", "XL"],
+		"itemsLeft": 34
+	},
+	{
+		"id": "93078733-592f-43ee-bf41-370a5386c680",
+		"title": "Slim Fit Chinos",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 69.79,
+		"sizes": ["XS", "M"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "9693ee79-7f84-4654-8433-2ec61df876e2",
+		"title": "Elegant Evening Gown",
+		"description": "A formal white shirt that pairs well with suits or business casual attire.",
+		"price": 107.04,
+		"sizes": ["XXL", "L", "S"],
+		"itemsLeft": 10
+	},
+	{
+		"id": "f128cdfc-10f5-4bde-9514-7ab35957d150",
+		"title": "Elegant Evening Gown",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 58.94,
+		"sizes": ["XS", "L", "M"],
+		"itemsLeft": 10
+	},
+	{
+		"id": "91eb941f-af52-477f-8bb3-a6be9fd76157",
+		"title": "Plaid Flannel Shirt",
+		"description": "A light and airy summer dress perfect for casual outings or beach trips.",
+		"price": 80.35,
+		"sizes": ["L", "XS", "S", "M", "XXL"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "1a5f73e6-1a2b-4596-bfe9-cce178fa4290",
+		"title": "Ripped Skinny Jeans",
+		"description": "A faux fur coat that combines luxury with warmth.",
+		"price": 73.21,
+		"sizes": ["S", "M", "XL", "XXL"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "cf164ac5-ecbd-4aa9-b3bb-83f52ab8b8dc",
+		"title": "Denim Jacket",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 31.53,
+		"sizes": ["XS", "L", "M"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "f3f3cf25-3361-4ae1-b8c3-09f6824b028c",
+		"title": "Off-Shoulder Top",
+		"description": "A light and airy summer dress perfect for casual outings or beach trips.",
+		"price": 64.26,
+		"sizes": ["XXL", "L", "XL", "M", "XS", "S"],
+		"itemsLeft": 12
+	},
+	{
+		"id": "6734d8a0-85c1-41d1-b2d0-23eba7cd2315",
+		"title": "V-Neck Sweater",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 74.76,
+		"sizes": ["XL", "L", "XXL", "S", "XS"],
+		"itemsLeft": 23
+	},
+	{
+		"id": "a5030092-6a1d-4e6e-b2c4-1ee2e88d51d9",
+		"title": "Casual T-Shirt",
+		"description": "A cozy V-neck sweater perfect for layering during cooler months.",
+		"price": 41.45,
+		"sizes": ["M", "XXL", "XS", "XL", "L"],
+		"itemsLeft": 38
+	},
+	{
+		"id": "2ee9b701-e113-4983-894f-b0b0fc30f753",
+		"title": "V-Neck Sweater",
+		"description": "A plaid flannel shirt that adds a rustic charm to your casual look.",
+		"price": 110.09,
+		"sizes": ["L", "XXL", "S"],
+		"itemsLeft": 36
+	},
+	{
+		"id": "c7578ff3-8598-475f-8d76-a2f020aca501",
+		"title": "Comfortable Hoodie",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 80.33,
+		"sizes": ["XL", "L", "XS", "S", "M"],
+		"itemsLeft": 28
+	},
+	{
+		"id": "5791f015-6e55-4a29-bf95-55c81512900f",
+		"title": "Sporty Joggers",
+		"description": "An elegant evening gown suitable for formal occasions and special events.",
+		"price": 111.34,
+		"sizes": ["M", "L", "XXL", "XL"],
+		"itemsLeft": 40
+	},
+	{
+		"id": "03ffebc4-9cac-462a-a350-7c8a9828d779",
+		"title": "Casual T-Shirt",
+		"description": "A plaid flannel shirt that adds a rustic charm to your casual look.",
+		"price": 97.0,
+		"sizes": ["XS", "XXL", "L", "XL"],
+		"itemsLeft": 12
+	},
+	{
+		"id": "fa6c866a-95e2-492b-9a70-7693b1c20b1b",
+		"title": "Floral Print Skirt",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 88.42,
+		"sizes": ["XXL", "XS", "S", "M", "XL"],
+		"itemsLeft": 7
+	},
+	{
+		"id": "07dc0e7b-2007-4e86-85b2-4cdac5f335ac",
+		"title": "Vintage Band Tee",
+		"description": "Classic blue jeans with a modern fit and a touch of stretch.",
+		"price": 105.13,
+		"sizes": ["XS", "XL", "M", "XXL"],
+		"itemsLeft": 18
+	},
+	{
+		"id": "13974ee4-642f-41e5-bf6e-ca99c9dc5254",
+		"title": "Casual T-Shirt",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 41.2,
+		"sizes": ["M", "XS", "L", "XL"],
+		"itemsLeft": 32
+	},
+	{
+		"id": "c625190b-688f-44c3-9ea6-dc7b933309f9",
+		"title": "Formal White Shirt",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 68.81,
+		"sizes": ["XXL", "XS", "XL"],
+		"itemsLeft": 20
+	},
+	{
+		"id": "ea1dc22a-ea28-4a73-8cc3-a0647aca3a8b",
+		"title": "Classic Blue Jeans",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 70.38,
+		"sizes": ["XS", "XXL", "M"],
+		"itemsLeft": 35
+	},
+	{
+		"id": "0a969b26-3cab-424e-8822-cdbe644c3e33",
+		"title": "Casual T-Shirt",
+		"description": "Classic blue jeans with a modern fit and a touch of stretch.",
+		"price": 58.92,
+		"sizes": ["XS", "M", "L"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "2a11d036-820f-4e68-bcf8-d22e83328031",
+		"title": "Off-Shoulder Top",
+		"description": "A plaid flannel shirt that adds a rustic charm to your casual look.",
+		"price": 118.23,
+		"sizes": ["M", "S", "L", "XS", "XXL", "XL"],
+		"itemsLeft": 22
+	},
+	{
+		"id": "ec753eec-018f-4512-a6cd-e6bea90be34d",
+		"title": "Floral Print Skirt",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 78.95,
+		"sizes": ["M", "L", "XXL", "XL", "S", "XS"],
+		"itemsLeft": 44
+	},
+	{
+		"id": "2d0efdd7-785b-4ef6-8cdd-2ab7b02d2334",
+		"title": "Classic Blue Jeans",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 30.95,
+		"sizes": ["L", "S", "M"],
+		"itemsLeft": 38
+	},
+	{
+		"id": "e94b93b8-7684-4553-80e4-63e2e1ac98b6",
+		"title": "Faux Fur Coat",
+		"description": "A formal white shirt that pairs well with suits or business casual attire.",
+		"price": 30.66,
+		"sizes": ["XXL", "S"],
+		"itemsLeft": 35
+	},
+	{
+		"id": "a582845f-dfa5-4152-950a-56bfb394c3fb",
+		"title": "Plaid Flannel Shirt",
+		"description": "Slim fit chinos that are both stylish and comfortable.",
+		"price": 38.33,
+		"sizes": ["XL", "L", "M"],
+		"itemsLeft": 39
+	},
+	{
+		"id": "70e8d68a-6e06-4ab7-ab40-29263d0612f3",
+		"title": "Floral Print Skirt",
+		"description": "Stay warm and cozy in this winter sweater, made from soft, high-quality wool.",
+		"price": 85.4,
+		"sizes": ["S", "XL"],
+		"itemsLeft": 23
+	},
+	{
+		"id": "39b8cd3c-4d29-44dc-ae6e-00105ca3df46",
+		"title": "Classic Blue Jeans",
+		"description": "A comfortable hoodie ideal for casual wear or staying warm on chilly days.",
+		"price": 96.88,
+		"sizes": ["M", "XS", "L", "XL", "XXL"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "e9302eab-c3cc-4e93-86f3-0cb06c648f9b",
+		"title": "Formal White Shirt",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 31.78,
+		"sizes": ["XL", "M", "S", "L", "XS", "XXL"],
+		"itemsLeft": 19
+	},
+	{
+		"id": "0183d652-910b-4212-9c74-32a7992eb37e",
+		"title": "Faux Fur Coat",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 58.38,
+		"sizes": ["M", "XXL", "S", "L", "XS"],
+		"itemsLeft": 35
+	},
+	{
+		"id": "573804a4-58b1-4699-a02f-419b4be09f12",
+		"title": "V-Neck Sweater",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 91.02,
+		"sizes": ["M", "XS"],
+		"itemsLeft": 27
+	},
+	{
+		"id": "9d4aef74-fe72-45e2-be26-c54aaa29c120",
+		"title": "Off-Shoulder Top",
+		"description": "A plaid flannel shirt that adds a rustic charm to your casual look.",
+		"price": 92.39,
+		"sizes": ["XXL", "M", "XS"],
+		"itemsLeft": 17
+	},
+	{
+		"id": "493aa8eb-3762-4e9b-b18e-723728950afa",
+		"title": "Stylish Summer Dress",
+		"description": "Classic blue jeans with a modern fit and a touch of stretch.",
+		"price": 99.73,
+		"sizes": ["S", "XXL", "M", "XL", "XS"],
+		"itemsLeft": 32
+	},
+	{
+		"id": "f6ec2f8c-01ba-4786-bcad-d76e671b0a52",
+		"title": "Slim Fit Chinos",
+		"description": "Stay warm and cozy in this winter sweater, made from soft, high-quality wool.",
+		"price": 77.51,
+		"sizes": ["L", "XXL", "S", "XS", "M"],
+		"itemsLeft": 33
+	},
+	{
+		"id": "25344156-40c5-4728-be7c-e1a14833833c",
+		"title": "Stylish Summer Dress",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 81.62,
+		"sizes": ["XXL", "XL", "M", "S"],
+		"itemsLeft": 8
+	},
+	{
+		"id": "277055cc-68cc-44a7-bd86-d4411a30d1f4",
+		"title": "Stylish Summer Dress",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 93.69,
+		"sizes": ["XS", "S", "L", "XXL", "M", "XL"],
+		"itemsLeft": 22
+	},
+	{
+		"id": "7a6d0070-811b-46ef-8a02-405a47b50af7",
+		"title": "Sporty Joggers",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 47.3,
+		"sizes": ["S", "L", "XXL", "XS", "XL", "M"],
+		"itemsLeft": 30
+	},
+	{
+		"id": "d268bdf9-2a5f-4d4f-a4ba-19d6301eabd9",
+		"title": "Cozy Winter Sweater",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 40.22,
+		"sizes": ["XXL", "L", "XL", "XS", "M", "S"],
+		"itemsLeft": 39
+	},
+	{
+		"id": "f67381f0-a6d4-4d51-8689-c2e50d35bd4e",
+		"title": "Denim Jacket",
+		"description": "A formal white shirt that pairs well with suits or business casual attire.",
+		"price": 51.51,
+		"sizes": ["XS", "M", "XL", "L", "S", "XXL"],
+		"itemsLeft": 41
+	},
+	{
+		"id": "c66052e2-eb8d-4517-b5f9-3ef5b840686a",
+		"title": "Comfortable Hoodie",
+		"description": "Slim fit chinos that are both stylish and comfortable.",
+		"price": 116.77,
+		"sizes": ["S", "XXL"],
+		"itemsLeft": 38
+	},
+	{
+		"id": "eedba745-b085-4334-8377-87fb83247858",
+		"title": "Floral Print Skirt",
+		"description": "Slim fit chinos that are both stylish and comfortable.",
+		"price": 49.48,
+		"sizes": ["XXL", "XS", "S", "XL"],
+		"itemsLeft": 24
+	},
+	{
+		"id": "42fbf6e8-7374-485a-b128-cb0da5468f6a",
+		"title": "Basic Crew Neck Tee",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 58.89,
+		"sizes": ["XL", "M", "S", "L"],
+		"itemsLeft": 47
+	},
+	{
+		"id": "07a9edb2-f084-4a91-b888-2d4b52dfc2a6",
+		"title": "Off-Shoulder Top",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 116.23,
+		"sizes": ["XXL", "XL"],
+		"itemsLeft": 26
+	},
+	{
+		"id": "ca4d55da-5b0d-467f-8e13-727c0c98c668",
+		"title": "Casual T-Shirt",
+		"description": "Ripped skinny jeans that offer a trendy, fashionable look.",
+		"price": 35.07,
+		"sizes": ["XS", "XL", "L", "M", "S"],
+		"itemsLeft": 7
+	},
+	{
+		"id": "4d4e3e6a-d9cf-427d-9bcb-32afa94c985a",
+		"title": "V-Neck Sweater",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 95.42,
+		"sizes": ["XS", "S", "L", "XXL", "XL"],
+		"itemsLeft": 18
+	},
+	{
+		"id": "b833bafa-789f-41f7-af42-07ffb7ba8e60",
+		"title": "Faux Fur Coat",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 38.57,
+		"sizes": ["XS", "S"],
+		"itemsLeft": 25
+	},
+	{
+		"id": "fb43b8f3-c2bb-40fc-8339-1774320be8bf",
+		"title": "Trendy Leather Jacket",
+		"description": "An off-shoulder top that adds a touch of elegance to your casual look.",
+		"price": 51.84,
+		"sizes": ["XXL", "XS", "XL", "S", "L", "M"],
+		"itemsLeft": 50
+	},
+	{
+		"id": "def0be76-d58d-4d4c-b0b5-2877fcc85656",
+		"title": "Plaid Flannel Shirt",
+		"description": "A faux fur coat that combines luxury with warmth.",
+		"price": 87.59,
+		"sizes": ["XS", "S", "XXL"],
+		"itemsLeft": 20
+	},
+	{
+		"id": "eff59c67-827b-45d1-91da-15841f3e1553",
+		"title": "Formal White Shirt",
+		"description": "A timeless denim jacket that pairs well with almost any outfit.",
+		"price": 59.64,
+		"sizes": ["S", "XXL", "XS", "XL", "M"],
+		"itemsLeft": 17
+	},
+	{
+		"id": "15da3b70-8883-492b-8f3f-5d35daadba97",
+		"title": "Basic Crew Neck Tee",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 30.2,
+		"sizes": ["M", "XS"],
+		"itemsLeft": 18
+	},
+	{
+		"id": "5023f968-564d-4dd5-982a-c7e32f31463e",
+		"title": "Basic Crew Neck Tee",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 69.28,
+		"sizes": ["XL", "XXL", "M", "XS", "L", "S"],
+		"itemsLeft": 29
+	},
+	{
+		"id": "b8d9dc13-bcd1-475d-88e7-6c8606e02e35",
+		"title": "Floral Print Skirt",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 35.71,
+		"sizes": ["XS", "XXL", "S", "M"],
+		"itemsLeft": 24
+	},
+	{
+		"id": "c874ab1f-0465-454e-a241-32b883aa2285",
+		"title": "V-Neck Sweater",
+		"description": "Ripped skinny jeans that offer a trendy, fashionable look.",
+		"price": 46.0,
+		"sizes": ["L", "S", "M", "XXL", "XS"],
+		"itemsLeft": 43
+	},
+	{
+		"id": "8900e6e9-ab4a-4fe9-8d10-4ac4bb9c7a0f",
+		"title": "Vintage Band Tee",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 53.55,
+		"sizes": ["XXL", "XL", "M", "L", "S", "XS"],
+		"itemsLeft": 3
+	},
+	{
+		"id": "dcc593ad-7de8-40da-8142-2f86bf97358c",
+		"title": "Basic Crew Neck Tee",
+		"description": "Ripped skinny jeans that offer a trendy, fashionable look.",
+		"price": 48.95,
+		"sizes": ["XS", "L"],
+		"itemsLeft": 18
+	},
+	{
+		"id": "7abacd0e-13eb-4713-a401-ab3147c80d5b",
+		"title": "Vintage Band Tee",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 78.8,
+		"sizes": ["XL", "XXL"],
+		"itemsLeft": 45
+	},
+	{
+		"id": "971089d5-80e2-4474-b56e-b642ad173c16",
+		"title": "V-Neck Sweater",
+		"description": "A comfortable hoodie ideal for casual wear or staying warm on chilly days.",
+		"price": 75.23,
+		"sizes": ["XS", "S", "M", "L", "XL"],
+		"itemsLeft": 44
+	},
+	{
+		"id": "913c0ca7-cc62-4e54-b15e-f9ba6c5fa5f3",
+		"title": "Casual T-Shirt",
+		"description": "A basic crew neck tee that is a must-have in any wardrobe.",
+		"price": 51.98,
+		"sizes": ["S", "XXL", "L", "M", "XS", "XL"],
+		"itemsLeft": 34
+	},
+	{
+		"id": "b4307592-2f4a-4c9d-bfac-d38b3204316b",
+		"title": "Striped Polo Shirt",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 91.76,
+		"sizes": ["XXL", "M", "XS", "XL", "L"],
+		"itemsLeft": 9
+	},
+	{
+		"id": "083241b6-1dff-4a36-b5ee-9a740e661667",
+		"title": "Plaid Flannel Shirt",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 79.72,
+		"sizes": ["M", "XXL", "S", "L"],
+		"itemsLeft": 11
+	},
+	{
+		"id": "6c4d7f50-fd58-419a-935c-76d7093e6be6",
+		"title": "Casual T-Shirt",
+		"description": "Ripped skinny jeans that offer a trendy, fashionable look.",
+		"price": 118.49,
+		"sizes": ["S", "L", "M", "XXL", "XL"],
+		"itemsLeft": 34
+	},
+	{
+		"id": "01e6b360-af2a-46df-a567-bb3e7be3ede1",
+		"title": "Casual T-Shirt",
+		"description": "An elegant evening gown suitable for formal occasions and special events.",
+		"price": 57.87,
+		"sizes": ["L", "XXL", "S"],
+		"itemsLeft": 33
+	},
+	{
+		"id": "53cf90e2-dbc6-48f9-8250-57d99f831637",
+		"title": "Denim Jacket",
+		"description": "A classic striped polo shirt made from breathable fabric.",
+		"price": 60.78,
+		"sizes": ["XL", "XXL"],
+		"itemsLeft": 15
+	},
+	{
+		"id": "85f4fb62-06a5-49f4-a67e-35d5985a2d2e",
+		"title": "Sporty Joggers",
+		"description": "A soft and comfortable t-shirt, great for everyday wear.",
+		"price": 118.67,
+		"sizes": ["XL", "L", "M", "S", "XS", "XXL"],
+		"itemsLeft": 13
+	},
+	{
+		"id": "7d1f6555-54bc-44d3-a88d-8179f3e2cfdf",
+		"title": "Formal White Shirt",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 105.93,
+		"sizes": ["S", "XS", "XL", "XXL", "L"],
+		"itemsLeft": 14
+	},
+	{
+		"id": "e28cf2c4-7599-40f5-8958-2792dc9e0882",
+		"title": "Formal White Shirt",
+		"description": "A light and airy summer dress perfect for casual outings or beach trips.",
+		"price": 54.81,
+		"sizes": ["M", "L"],
+		"itemsLeft": 3
+	},
+	{
+		"id": "11f66560-354b-49f5-b212-a83b1e5c26a6",
+		"title": "Ripped Skinny Jeans",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 118.17,
+		"sizes": ["XL", "S"],
+		"itemsLeft": 1
+	},
+	{
+		"id": "8efe2c93-12ca-45db-827d-d33f0f864c08",
+		"title": "Off-Shoulder Top",
+		"description": "A basic crew neck tee that is a must-have in any wardrobe.",
+		"price": 55.24,
+		"sizes": ["XXL", "S", "XL", "XS", "L", "M"],
+		"itemsLeft": 1
+	},
+	{
+		"id": "44575742-b784-40a0-9327-d032f421ef03",
+		"title": "Basic Crew Neck Tee",
+		"description": "A formal white shirt that pairs well with suits or business casual attire.",
+		"price": 115.32,
+		"sizes": ["S", "XXL"],
+		"itemsLeft": 30
+	},
+	{
+		"id": "96e6d2c8-1d3d-4419-b207-a7d418a5404d",
+		"title": "Faux Fur Coat",
+		"description": "Classic blue jeans with a modern fit and a touch of stretch.",
+		"price": 117.51,
+		"sizes": ["S", "XL", "XXL", "L"],
+		"itemsLeft": 30
+	},
+	{
+		"id": "a6a43856-63d9-4571-95e9-3ec9dbe1e325",
+		"title": "Plaid Flannel Shirt",
+		"description": "Sporty joggers that are perfect for workouts or lounging at home.",
+		"price": 106.43,
+		"sizes": ["XXL", "L", "M", "XL", "S", "XS"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "ed0ee9fe-d09d-473d-82f8-eb3d063c3cc4",
+		"title": "Denim Jacket",
+		"description": "An elegant evening gown suitable for formal occasions and special events.",
+		"price": 44.57,
+		"sizes": ["M", "XXL", "XS", "S", "L"],
+		"itemsLeft": 26
+	},
+	{
+		"id": "ef29dd5d-5a25-493c-8951-f67c005d8632",
+		"title": "Faux Fur Coat",
+		"description": "A vintage band tee for a retro, stylish vibe.",
+		"price": 54.89,
+		"sizes": ["XXL", "M", "S"],
+		"itemsLeft": 19
+	},
+	{
+		"id": "dcbadb1b-4ea8-49f3-b702-df397ed388e0",
+		"title": "Trendy Leather Jacket",
+		"description": "A floral print skirt that brings a touch of femininity and style to your wardrobe.",
+		"price": 44.93,
+		"sizes": ["XXL", "S", "XL", "XS"],
+		"itemsLeft": 21
+	},
+	{
+		"id": "4576e23d-b77b-40df-b98e-4b3bfb14dd6f",
+		"title": "Plaid Flannel Shirt",
+		"description": "A trendy leather jacket that adds a touch of edge to any outfit.",
+		"price": 96.0,
+		"sizes": ["XXL", "XS", "L"],
+		"itemsLeft": 7
+	}
+]
